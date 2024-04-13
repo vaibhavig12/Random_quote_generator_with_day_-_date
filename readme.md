@@ -28,5 +28,4 @@ You can see a live demo of the Random Quotes App [here](https://vaibhavig12.gith
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vaibhavig12
-/random-quotes-app.git
+git clone https://github.com/vaibhavig12/random-quotes-app.git
