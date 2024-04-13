@@ -15,7 +15,7 @@ This is a simple web application that displays random quotes fetched from the [Q
 
 ## Demo
 
-You can see a live demo of the Random Quotes App [here](https://example.com).
+You can see a live demo of the Random Quotes App [here]([https://example.com](https://vaibhavig12.github.io/Random_quote_generator_with_day_-_date/)).
 
 ## Technologies Used
 
